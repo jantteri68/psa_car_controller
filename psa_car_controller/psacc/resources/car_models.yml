@@ -98,6 +98,14 @@
   max_elec_consumption: 70
   max_fuel_consumption: 30
 - !CarModel
+  name: SUV 3008 Hybrid4 GT
+  battery_power: 13.2
+  fuel_capacity: 43
+  abrp_name:
+  reg: VF3M45GB.*
+  max_elec_consumption: 70
+  max_fuel_consumption: 30
+- !CarModel
   name: SUV 3008
   battery_power: 0
   fuel_capacity: 53
